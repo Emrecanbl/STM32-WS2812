@@ -14,8 +14,6 @@ Connecting wires and resistors (as needed)
 Installation
 Clone the repository:
 
-sh
-Kodu kopyala
 git clone https://github.com/Emrecanbl/STM32-WS2812.git
 Open the project:
 Open the project in your preferred IDE (e.g., STM32CubeIDE).
